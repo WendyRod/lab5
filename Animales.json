@@ -33,6 +33,7 @@
 	{
     "name": "Whiskers",
     "species" : "cat",
+	"photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7nR4LhKKC6F3nKrL28LlO8mGnj7aiO1GfxjlqdkggwTVSWuzFQ",
     "foods": {
       "likes": ["celery", "strawberries"],
       "dislikes": ["carrots"]
@@ -49,6 +50,7 @@
   {
     "name": "Fluffy",
     "species" : "cat",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjiNfYpuEXaWBR2rxUTlaBeCNuszdF6t731TxbwOlMRfxT5k9CKA",
     "foods": {
       "likes": ["canned food"],
       "dislikes": ["dry food"]
