@@ -5,9 +5,9 @@
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"],
-	    
+	"photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"    
     }
-	"photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"  
+	  
   },
   {
     "name": "Barky",
@@ -26,7 +26,7 @@
       "dislikes": ["cookies"],
 	"photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     }
-  }/*,
+  },
 	{
     "name": "Whiskers",
     "species" : "cat",
@@ -74,5 +74,5 @@
       "likes": ["fancy dishes"],
       "dislikes": ["basic cat food"]
     }
-  }*/
+  }
 ]
