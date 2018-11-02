@@ -42,6 +42,7 @@
   {
     "name": "Woof",
     "species" : "dog",
+	"photo": "https://i0.wp.com/thehappening.com/wp-content/uploads/2015/08/king-cavalier-2.jpg?w=1024&ssl=1",
     "foods": {
       "likes": ["dog food"],
       "dislikes": ["cat food"]
@@ -59,6 +60,7 @@
 	{
     "name": "Kitty",
     "species" : "cat",
+	"photo": "https://cdn1.royalcanin.es/wp-content/uploads/2017/01/gatos-de-interior.jpg",
     "foods": {
       "likes": ["fresh food"],
       "dislikes": ["stale food"]
@@ -67,6 +69,7 @@
   {
     "name": "Pupster",
     "species" : "dog",
+	  "photo": "https://hipertextual.com/files/2018/08/jairo-alzate-45522-670x410.jpg",
     "foods": {
       "likes": ["tomatoes", "peas"],
       "dislikes": ["bread"]
@@ -75,6 +78,7 @@
   {
     "name": "Tux",
     "species" : "cat",
+	  "photo": "https://t1.uc.ltmcdn.com/images/6/1/6/img_por_que_mi_gato_maulla_mucho_26616_600.jpg",
     "foods": {
       "likes": ["fancy dishes"],
       "dislikes": ["basic cat food"]
