@@ -5,30 +5,30 @@
 	"photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg",  
     "foods": {
       "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-	    
-    }
-	 
+      "dislikes": ["ham", "zucchini"]    
+    } 
   },
   {
     "name": "Barky",
     "species" : "dog",
+	  "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
     "foods": {
       "likes": ["bones", "carrots"],
       "dislikes": ["tuna"]
 	
     }
-	"photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"   
+	   
   },
   {
     "name": "Purrpaws",
     "species" : "cat",
+	  "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     "foods": {
       "likes": ["mice"],
       "dislikes": ["cookies"]
 	
     }
-	  "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+	  
   },
 	{
     "name": "Whiskers",
