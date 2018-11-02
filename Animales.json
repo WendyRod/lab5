@@ -5,9 +5,7 @@
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"],
-	"photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
-	    
-
+	"photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"	    
     }
   },
   {
@@ -18,7 +16,6 @@
       "dislikes": ["tuna"],
 	   "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg" 
     }
-	
   },
   {
     "name": "Purrpaws",
@@ -28,6 +25,53 @@
       "dislikes": ["cookies"],
 	    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     }
-	
+  },
+	{
+    "name": "Whiskers",
+    "species" : "cat",
+    "foods": {
+      "likes": ["celery", "strawberries"],
+      "dislikes": ["carrots"]
+    }
+  },
+  {
+    "name": "Woof",
+    "species" : "dog",
+    "foods": {
+      "likes": ["dog food"],
+      "dislikes": ["cat food"]
+    }
+  },
+  {
+    "name": "Fluffy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["canned food"],
+      "dislikes": ["dry food"]
+    }
+  },
+	{
+    "name": "Kitty",
+    "species" : "cat",
+    "foods": {
+      "likes": ["fresh food"],
+      "dislikes": ["stale food"]
+    }
+  },
+  {
+    "name": "Pupster",
+    "species" : "dog",
+    "foods": {
+      "likes": ["tomatoes", "peas"],
+      "dislikes": ["bread"]
+    }
+  },
+  {
+    "name": "Tux",
+    "species" : "cat",
+    "foods": {
+      "likes": ["fancy dishes"],
+      "dislikes": ["basic cat food"]
+    }
   }
 ]
