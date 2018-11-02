@@ -2,12 +2,13 @@
   {
     "name": "Meowsy",
     "species" : "cat",
+	"photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg",  
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
 	    
     }
-	"photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"  
+	 
   },
   {
     "name": "Barky",
