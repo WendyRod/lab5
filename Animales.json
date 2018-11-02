@@ -5,7 +5,7 @@
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"],
-	"photo": "https://cdn1.royalcanin.es/wp-content/uploads/2017/01/gatos-de-interior.jpg"
+	"photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
 	    
 
     }
