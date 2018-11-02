@@ -14,18 +14,20 @@
     "species" : "dog",
     "foods": {
       "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"],
-	"photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg" 
+      "dislikes": ["tuna"]
+	
     }
+	"photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"   
   },
   {
     "name": "Purrpaws",
     "species" : "cat",
     "foods": {
       "likes": ["mice"],
-      "dislikes": ["cookies"],
-	"photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+      "dislikes": ["cookies"]
+	
     }
+	  "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
   },
 	{
     "name": "Whiskers",
